@@ -50,7 +50,7 @@ Experiencia en entornos corporativos (**Huawei / Bancolombia**) colaborando en l
 ## 💼 Experiencia con Datos
 
 ### **Analista de Datos Junior** | *Adecco Servicios Colombia S.A. — Huawei*
-`Noviembre 2024 – Actualidad` | `Colombia`
+`Noviembre 2024 – Octubre 2025` | `Medellín, Colombia`
 
 * **Extracción y cruce de datos:** Apoyo en la extracción y consulta de información desde bases de datos relacionales (**MySQL**) mediante **SQL**, atendiendo requerimientos de datos del equipo.
 * **Tableros y visualización:** Construcción y actualización de tableros interactivos en **Power BI** y reportes periódicos en **Excel** (tablas dinámicas y fórmulas) para el seguimiento de métricas operativas.
