@@ -83,7 +83,7 @@ Experiencia en entornos corporativos (**Huawei / Bancolombia**) colaborando en l
 
 ## 🎓 Formación Académica
 
-* **Bootcamp de Análisis de Datos** — *En curso*
+* **Bootcamp de Análisis de Datos** — *Culminado*
 * **Ingeniería Electrónica** (Últimos semestres) — *Universidad Nacional Abierta y a Distancia (UNAD)*
 * **Tecnólogo en Gestión de redes y bases de Datos** — *Servicio Nacional de Aprendizaje (CULMINADO)*
 
