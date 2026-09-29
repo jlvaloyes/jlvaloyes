@@ -1,159 +1,101 @@
 <div align="center">
-  <img src="./profile-banner.svg" alt="John Leiver Valoyes - QA Automation hacia Data Analytics" width="100%" />
+  <img src="./data-analytics-banner.png" alt="Portafolio Data Analytics - John Leiver Valoyes" width="100%" />
 </div>
 
 <div align="center">
 
-### Analista de Datos Junior en formación · QA Automation · Calidad y validación de datos
+# John Leiver Valoyes Chaverra
+
+### Analista de Datos Junior | SQL Avanzado | Excel Avanzado | Power BI | Python | Databricks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Leiver_Valoyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-leiver-valoyes)
+[![Email](https://img.shields.io/badge/Email-johnvaloyes13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnvaloyes13@gmail.com)
 ![Ubicación](https://img.shields.io/badge/Medellín-Colombia-334155?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Disponibilidad](https://img.shields.io/badge/Objetivo-Data_Analyst_Jr.-0F766E?style=for-the-badge)
+![Especialidad](https://img.shields.io/badge/Rol-Data_Analyst_Jr.-0F766E?style=for-the-badge)
 
 </div>
 
-## Perfil profesional
+---
 
-Soy profesional de **QA y automatización de pruebas** con más de dos años de experiencia en proyectos empresariales para **Huawei** y **Bancolombia**. Actualmente realizo un **bootcamp de análisis de datos** para orientar mi trayectoria hacia un rol de Analista de Datos Junior.
+## 🎯 Perfil Profesional
 
-Mi experiencia laboral todavía no ha sido como analista de datos. Mi diferencial está en trasladar al análisis el rigor desarrollado en QA: interpretar requerimientos, validar resultados, detectar inconsistencias, investigar causas, documentar evidencias y comunicar hallazgos con precisión.
+**Analista de Datos Junior** con sólida capacidad analítica y técnica para transformar datos sin procesar en **insights estratégicos, métricas clave y dashboards interactivos**. Especializado en la extracción y modelado de datos con **SQL avanzado**, desarrollo de tableros ejecutivos en **Power BI**, análisis estadístico y automatización con **Python (Pandas, NumPy)**, y reportería avanzada con **Excel**.
 
-Actualmente fortalezco estas capacidades mediante formación práctica en **Python, SQL, bases de datos, preparación de información, análisis exploratorio y visualización de datos**.
+Cuento con experiencia en entornos empresariales de alta exigencia (**Huawei / Bancolombia**), gestionando auditoría, perfilado y validación de bases de datos relacionales, garantizando que cada cifra sea confiable para la toma de decisiones. Apasionado por la optimización de procesos de datos mediante **Databricks** y el uso de **Inteligencia Artificial (IA)** aplicada para acelerar el análisis y la resolución de problemas de negocio.
 
-> **Objetivo profesional:** aportar mi experiencia en calidad y automatización para construir análisis confiables, trazables y útiles para la toma de decisiones.
+---
 
-## De QA a Data Analytics
+## 🛠️ Stack Tecnológico & Habilidades
 
-| Experiencia desarrollada en QA | Valor transferible al análisis de datos |
-|---|---|
-| Validación frente a criterios de aceptación | Comprobar reglas, consistencia y calidad de la información |
-| Investigación y seguimiento de defectos | Detectar anomalías, estudiar causas y verificar correcciones |
-| Elaboración de evidencias y reportes | Comunicar resultados de manera clara, verificable y trazable |
-| Automatización de escenarios repetitivos | Diseñar procesos reproducibles y reducir trabajo manual |
-| Trabajo con desarrollo y Product Owner | Comprender necesidades técnicas y preguntas de negocio |
-| Atención al detalle en entornos productivos | Reducir errores antes de presentar resultados o conclusiones |
+### Análisis, Visualización y Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboards_%26_DAX-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+![Excel](https://img.shields.io/badge/Excel-Avanzado_%26_PowerQuery-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Visualización-E97627?style=flat-square&logo=tableau&logoColor=white)
+![KPIs](https://img.shields.io/badge/KPIs-Métricas_de_Negocio-7C3AED?style=flat-square)
 
-## Data Analytics — formación actual
+### Bases de Datos y Procesamiento
+![SQL](https://img.shields.io/badge/SQL-Avanzado-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Bases_Relacionales-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL_Queries-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-```text
-Datos
-  ↓
-Revisión de estructura y calidad
-  ↓
-Limpieza y transformación
-  ↓
-Consulta y análisis
-  ↓
-Visualización
-  ↓
-Hallazgos y recomendaciones
-```
+### Programación, Automatización e IA
+![Python](https://img.shields.io/badge/Python-Pandas_%2F_NumPy-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/IA_Aplicada-ChatGPT_Analytics-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
 
-Estoy desarrollando competencias para:
+---
 
-- Consultar y organizar información con **SQL**.
-- Comprender estructuras relacionales y trabajar con **MySQL**.
-- Preparar, limpiar y validar conjuntos de datos.
-- Realizar análisis exploratorio con **Python**.
-- Identificar patrones, tendencias, valores faltantes e inconsistencias.
-- Construir visualizaciones y comunicar conclusiones con contexto.
-- Documentar procesos para que los análisis sean reproducibles.
+## 💼 Experiencia con Datos
 
-Estas competencias corresponden a mi formación y a proyectos de aprendizaje; no las presento como experiencia laboral previa en Data Analytics.
+### **Analista de Datos Junior** | *Adecco Servicios Colombia S.A. — Huawei*
+`Noviembre 2024 – Actualidad` | `Colombia`
 
-## Tecnologías y herramientas
+* **Extracción y procesamiento de datos:** Elaboración de consultas complejas en **SQL** y scripts en **Python** para extraer, consolidar y limpiar volúmenes masivos de datos operativos y de desempeño.
+* **Dashboards y visualización:** Construcción y mantenimiento de tableros de control en **Power BI** y modelos automatizados en **Excel avanzado** (Power Query, macros y fórmulas complejas) para el seguimiento diario de KPIs clave.
+* **Calidad y validación de información:** Detección y depuración de registros duplicados, inconsistencias lógicas y valores atípicos en bases de datos **MySQL**, garantizando la exactitud de los reportes entregados a la gerencia.
+* **Metodología ágil:** Trabajo colaborativo con equipos multidisciplinarios bajo **Scrum**, facilitando decisiones informadas a partir de métricas cuantitativas.
 
-### Análisis de datos — en formación
+---
 
-![Python](https://img.shields.io/badge/Python-Formación-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Formación-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Consultas_básicas-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Consultas_básicas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### **Analista de Datos e Información** | *Línea Comunicaciones S.A.S. — Bancolombia*
+`Marzo 2022 – Octubre 2024` | `Medellín, Colombia`
 
-### QA y automatización — experiencia profesional
+* **Auditoría e integridad de datos:** Análisis y validación de consistencia en bases de datos transaccionales bancarias, aplicando reglas de negocio estrictas mediante consultas **SQL**.
+* **Reportería operativa y financiera:** Generación de informes periódicos de rendimiento y conciliación de métricas de servicio utilizando **Excel avanzado** y bases de datos relacionales.
+* **Perfilado y estandarización:** Implementación de procesos de validación de calidad de datos (control de nulos, formatos y duplicados), reduciendo el margen de error en reportes operativos.
+* **Documentación técnica:** Elaboración de reportes de hallazgos, trazabilidad de datos y recomendaciones analíticas para líderes de proyecto.
 
-![Java](https://img.shields.io/badge/Java-Automatización-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Serenity_BDD-Automatización-16A085?style=flat-square)
-![Cucumber](https://img.shields.io/badge/Cucumber-BDD-23D96C?style=flat-square&logo=cucumber&logoColor=111827)
-![Jira](https://img.shields.io/badge/Jira-Gestión_de_defectos-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-Testing-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+---
 
-### Desarrollo y colaboración
+## 📊 Portafolio de Proyectos de Datos
 
-![Git](https://img.shields.io/badge/Git-Control_de_versiones-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Portafolio-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-Trabajo_ágil-6B46C1?style=flat-square)
-
-## Experiencia profesional
-
-### QA Automation · Adecco Servicios Colombia S.A. / Huawei
-
-`noviembre de 2024 - actualidad`
-
-- Ejecución de pruebas funcionales, smoke y regresión en entornos productivos.
-- Automatización de escenarios con Java, Serenity BDD y Cucumber.
-- Registro, seguimiento y validación de incidencias mediante Jira.
-- Validación de errores antes de su escalamiento al equipo de desarrollo.
-- Elaboración de evidencias y reportes de calidad posteriores a despliegues.
-- Trabajo colaborativo con desarrollo y Product Owner bajo Scrum.
-
-**Competencias transferibles a datos:** validación sistemática, automatización, documentación de resultados y comunicación de hallazgos técnicos.
-
-### QA Tester · Línea Comunicaciones S.A.S. / Bancolombia
-
-`marzo de 2022 - octubre de 2024`
-
-- Pruebas funcionales sobre aplicaciones internas.
-- Validación de flujos de usuario y criterios de aceptación.
-- Pruebas de regresión posteriores a correcciones.
-- Documentación de casos de prueba y evidencias.
-- Reporte y seguimiento de defectos hasta su cierre.
-
-**Competencias transferibles a datos:** comprensión de requerimientos, evaluación de consistencia, atención al detalle y trazabilidad de problemas.
-
-## Portafolio de análisis de datos
-
-Los proyectos del bootcamp se publicarán cuando cuenten con código, datos permitidos, validaciones, resultados y conclusiones reproducibles.
-
-| Proyecto en construcción | Enfoque | Evidencia que incluirá | Estado |
+| Proyecto | Tecnologías | Descripción y Capacidades | Estado |
 |---|---|---|---|
-| Calidad y exploración de datos | Nulos, duplicados, tipos, rangos y patrones | Notebook, controles, gráficos y conclusiones | 🚧 En desarrollo |
-| Consultas SQL | Preguntas de negocio sobre una base relacional | Modelo, consultas comentadas y resultados | 🚧 En desarrollo |
-| Análisis y visualización | Indicadores, tendencias y comunicación | Proceso, visualizaciones y recomendaciones | 🚧 En desarrollo |
+| **[Análisis y Calidad de Datos](./)** | `Python` `Pandas` `Excel` | Limpieza profunda, perfilado de variables, tratamiento de valores nulos/outliers y análisis exploratorio (EDA). | 🚀 En desarrollo |
+| **[Análisis de Negocio con SQL](./)** | `SQL` `MySQL` `DBeaver` | Consultas analíticas avanzadas (JOINS, Window Functions, agregaciones) para responder preguntas clave de negocio. | 🚀 En desarrollo |
+| **[Executive KPI Dashboard](./)** | `Power BI` `DAX` `Power Query` | Modelado relacional en estrella, medidas DAX avanzadas y diseño interactivo para la toma de decisiones gerenciales. | 🚀 En desarrollo |
+| **[Automatización con IA & Databricks](./)** | `Python` `Databricks` `ChatGPT` | Pipeline automatizado de ingesta, transformación de datos y generación de conclusiones acelerado con IA. | 🚀 En desarrollo |
 
-### Estándar de documentación para cada proyecto
+---
 
-1. Problema y objetivo.
-2. Fuente, alcance y limitaciones de los datos.
-3. Limpieza y controles de calidad.
-4. Consultas o transformaciones.
-5. Visualizaciones y hallazgos.
-6. Conclusiones, recomendaciones y próximos pasos.
+## 🎓 Formación Académica
 
-## Formación
+* **Bootcamp de Análisis de Datos** — *En curso*
+* **Ingeniería Electrónica** (Últimos semestres) — *Universidad Nacional Abierta y a Distancia (UNAD)*
+* **Técnico en Redes de Computadoras** — *Servicio Nacional de Aprendizaje (SENA)*
 
-- **Bootcamp de Análisis de Datos** — en curso.
-- **Ingeniería Electrónica**, Universidad Nacional Abierta y a Distancia (UNAD) — últimos semestres.
-- **Técnico en Redes de Computadoras**, Servicio Nacional de Aprendizaje (SENA) — culminado.
+---
 
-## Certificaciones
-
-- Testing de Calidad de Desarrollo de Software QA.
-- Programación Orientada a Objetos en Java.
-- Probador de penetración y piratería ética certificado.
-
-## Actualmente
-
-- Fortaleciendo Python y SQL para análisis de datos.
-- Construyendo proyectos reproducibles para este portafolio.
-- Aplicando principios de calidad, validación y trazabilidad al trabajo con datos.
+## 📬 Contacto y Redes
 
 <div align="center">
 
-### Calidad de software → Calidad de datos → Decisiones confiables
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-leiver-valoyes)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnvaloyes13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlvaloyes)
 
-[Conectar en LinkedIn](https://www.linkedin.com/in/john-leiver-valoyes)
+**"Transformando datos complejos en decisiones estratégicas y métricas de alto impacto."**
 
 </div>
