@@ -84,7 +84,7 @@ Cuento con experiencia en entornos empresariales de alta exigencia (**Huawei / B
 
 * **Bootcamp de Análisis de Datos** — *En curso*
 * **Ingeniería Electrónica** (Últimos semestres) — *Universidad Nacional Abierta y a Distancia (UNAD)*
-* **Técnico en Redes de Computadoras** — *Servicio Nacional de Aprendizaje (SENA)*
+* **Tecnólogo en Gestión de redes y bases de Datos** — *Servicio Nacional de Aprendizaje (SENA)*
 
 ---
 
