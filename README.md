@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./data-analytics-banner.png" alt="Portafolio Data Analytics - John Leiver Valoyes" width="100%" />
+<img src="./ChatGPT%20Image%20Sep%2029%2C%202026%2C%2012_59_02%20AM.png" alt="Portafolio Data Analytics - John Leiver Valoyes" width="100%" />
+
 </div>
 
 <div align="center">
